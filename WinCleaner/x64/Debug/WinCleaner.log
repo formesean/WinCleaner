@@ -1,0 +1,4 @@
+﻿  CppCLR_WinFormsProject.cpp
+D:\Code\Cpp\WinCleaner\WinCleaner\Form1.h(203,91): warning C4129: 'R': unrecognized character escape sequence
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  WinCleaner.vcxproj -> D:\Code\Cpp\WinCleaner\x64\Debug\WinCleaner.exe

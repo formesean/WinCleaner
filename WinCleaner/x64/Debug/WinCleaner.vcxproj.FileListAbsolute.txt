@@ -1,0 +1,4 @@
+D:\Code\Cpp\WinCleaner\WinCleaner\x64\Debug\WinCleaner.vcxproj.AssemblyReference.cache
+D:\Code\Cpp\WinCleaner\WinCleaner\x64\Debug\WinCleaner.vcxproj.SuggestedBindingRedirects.cache
+D:\Code\Cpp\WinCleaner\WinCleaner\x64\Debug\WinCleaner.Form1.resources
+D:\Code\Cpp\WinCleaner\WinCleaner\x64\Debug\WinCleaner.vcxproj.GenerateResource.cache
