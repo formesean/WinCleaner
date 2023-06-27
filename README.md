@@ -16,7 +16,7 @@ WinForm is a cleanup application written in C++ CLR WinForm. It is designed to h
 
 ## Installation and Usage
 
-1. Download the latest release of WinForm from the [releases](https://github.com/your-username/WinForm/releases) page.
+1. Download the latest release of WinForm from the [releases](https://github.com/aguilarsean/WinCleaner/releases) page.
 2. Extract the downloaded ZIP file to a location on your computer.
 3. Navigate to the extracted folder and double-click on the `WinForm.exe` file to launch the application.
 4. The WinForm interface will appear, presenting various cleanup options.
